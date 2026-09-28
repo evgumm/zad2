@@ -1,0 +1,36 @@
+body {
+padding: 40px;
+background-color: white;
+}
+.card {
+background-color: whitesmoke;
+max-width: 440px;
+padding: 24px;
+border-radius: 10px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+h2 {
+margin-top: 0;
+margin-bottom: 16px;
+font-size: 20px;
+color: black;
+}
+p {
+margin: 8px 0;
+padding: 10px;
+background-color: white;
+border-left: 4px solid gray; 
+border-radius: 4px;
+font-size: 15px;
+color: black;
+}
+p.done {
+border-left-color: #28a745;
+background-color: whitesmoke;
+color: darkgreen;
+}
+.counter {
+margin-top: 16px;
+font-weight: bold;
+color: red;
+}

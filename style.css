@@ -1,0 +1,24 @@
+body {
+padding: 40px;
+background-color: white;
+}
+.card {
+background-color: whitesmoke;
+max-width: 420px;
+padding: 24px;
+border-radius: 10px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+h2 {
+margin-top: 0;
+margin-bottom: 16px;
+font-size: 20px;
+color: black;
+}
+p {
+margin: 8px 0;
+padding: 10px;
+background-color: whitesmoke;
+border-radius: 4px;
+color: black;
+}
